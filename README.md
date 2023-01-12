@@ -36,10 +36,21 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 
 ## Features
 
-![Number of incidents by category](https://user-images.githubusercontent.com/109167046/212193686-42f9027c-e901-4909-9d2f-3e0552029e9c.png)
+
+- Number of incidents by category
+<img width="949" alt="sc1" src="https://user-images.githubusercontent.com/109167046/212193686-42f9027c-e901-4909-9d2f-3e0552029e9c.png">
 
 
+- Los Angeles visual
+<img width="713" alt="sc22" src="https://user-images.githubusercontent.com/109167046/212193953-737e27d5-f800-4fd4-9e0f-ecccf5eebe29.png">
 
+
+- New York visual
+<img width="713" alt="sc3" src="https://user-images.githubusercontent.com/109167046/212193958-bc2a9c4c-9d39-43c9-bd64-c6dc14408b07.png">
+
+
+- Expected output for the LA file
+<img width="960" alt="sc4" src="https://user-images.githubusercontent.com/109167046/212193963-0702963c-7c87-4b03-977c-c601a605acb0.png">
 
 
 ## Technical Description
