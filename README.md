@@ -16,7 +16,7 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 
 - The program reads three CSV files separately, stores them in created class objects, removes rows with empty fields, sorts the data, prints the number of incidents by category (by date also possible), and writes cleared and sorted data to another CSV file
 
-- Visuals make use of latitude and longitude data included in the files. There you can see the exact localization of every crime/incident included, and also filter it by date, category, or age.
+- Visuals utilize cleared CSV files and make use of latitude and longitude data included in them. There you can see the exact localization of every crime/incident included, and also filter it by date, category, or age.
 
 ### Language elements introduced in the course included in the project
 - classes
@@ -55,3 +55,5 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 ![Los Angeles visual](./img/sc1.png)
 
 ![New York visual](./img/sc1.png)
+
+![Expected output for the LA file ](./img/sc1.png)
