@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technical Description](#technical-description)
 * [Features](#features)
+* [Technical Description](#technical-description)
 
 
 ## General Information
@@ -34,6 +34,15 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 - vectors
 - iterators
 
+## Features
+![Number of incidents by category](./img/sc1.png)
+
+![Los Angeles visual](./img/sc1.png)
+
+![New York visual](./img/sc1.png)
+
+![Expected output for the LA file ](./img/sc1.png)
+
 ## Technical Description
 
 ### Language
@@ -51,11 +60,4 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 ### Integrated Development Environment
 - Visual Studio 2019
 
-## Features
-![Number of incidents by category](./img/sc1.png)
 
-![Los Angeles visual](./img/sc1.png)
-
-![New York visual](./img/sc1.png)
-
-![Expected output for the LA file ](./img/sc1.png)
