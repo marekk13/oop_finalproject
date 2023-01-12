@@ -35,7 +35,8 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 - iterators
 
 ## Features
-![Number of incidents by category](./img/sc1.png)
+![Number of incidents by category](<img width="949" alt="sc1" src="https://user-images.githubusercontent.com/109167046/212193686-42f9027c-e901-4909-9d2f-3e0552029e9c.png">)
+
 
 ![Los Angeles visual](./img/sc1.png)
 
