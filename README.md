@@ -42,11 +42,11 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 
 
 - Los Angeles visual
-<img width="713" alt="sc22" src="https://user-images.githubusercontent.com/109167046/212193953-737e27d5-f800-4fd4-9e0f-ecccf5eebe29.png">
+<img width="960" alt="sc22" src="https://user-images.githubusercontent.com/109167046/212193953-737e27d5-f800-4fd4-9e0f-ecccf5eebe29.png">
 
 
 - New York visual
-<img width="713" alt="sc3" src="https://user-images.githubusercontent.com/109167046/212193958-bc2a9c4c-9d39-43c9-bd64-c6dc14408b07.png">
+<img width="960" alt="sc3" src="https://user-images.githubusercontent.com/109167046/212193958-bc2a9c4c-9d39-43c9-bd64-c6dc14408b07.png">
 
 
 - Expected output for the LA file
