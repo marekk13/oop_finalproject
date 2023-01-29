@@ -18,7 +18,7 @@ However, it was necessary to meet the project requirement of 3 files exceeding t
 
 - Visuals utilize cleared CSV files and make use of latitude and longitude data included in them. There you can see the exact localization of every crime/incident included, and also filter it by date, category, or age.
 
-- As two of the files were too large to upload I leave two links to download them here: [San Francisco](https://catalog.data.gov/dataset/police-department-incident-reports-2018-to-present) [Los Angeles](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+- As two of the files were too large to upload, so I leave two links to download them here: [San Francisco](https://catalog.data.gov/dataset/police-department-incident-reports-2018-to-present) [Los Angeles](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 
 ### Language elements introduced in the course included in the project
 - classes
